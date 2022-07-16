@@ -10,5 +10,3 @@ for (let i = 0; i < TOTAL_INTERACIONES; i++) {
 
 let promedio = total / TOTAL_INTERACIONES
 alert('El promedio es: ' + promedio)
-
-asdasf 
