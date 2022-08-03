@@ -1,0 +1,12 @@
+#Evento {
+    height: 30px;
+    width: 80px;
+    background-color: aqua;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 8px 5px;
+}
